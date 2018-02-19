@@ -2,9 +2,9 @@
 Exported Jar of my Intellij  IDEA settings. (Editor preferences, Keymaps and so on)
 
 Favorite ones:
-DD: toggle distraction free mode
-FF: toggle full screen mode
-
+Windows+D: toggle distraction free mode
+Windows+F: toggle full screen mode
+(Super-Key for Mac)
 (I have added shortcuts in vim style to improve efficiency)
 
 Usage:
