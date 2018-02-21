@@ -15,3 +15,4 @@ Download settings.jar file and follow:
 
 # Quick Tips (Lookup)
 1. Regex Search for  multiple words: (word1).*(word2)|\2.*\1
+2. Alt-(Left Arrow):: Navigate Back, Alt-(Right Arrow):: Navigate Forward (Cursor position)
