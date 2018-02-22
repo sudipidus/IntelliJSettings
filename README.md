@@ -1,21 +1,42 @@
-# IntelliJSettings
-Exported Jar of my Intellij  IDEA settings. (Editor preferences, Keymaps and so on)
+# IntelliJ Settings And Productivity
+This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferences, Keymaps and so on) In addition there are the descriptions of my key map which I have set to enhance productivity. This is meant to be a reference for me. Collaboration and suggestions are welcome
 
-Favorite ones:
-Windows+D: toggle distraction free mode
-Windows+F: toggle full screen mode
-(Super-Key for Mac)
-(I have added shortcuts in vim style to improve efficiency)
-
-**Usage:**
-Download settings.jar file and follow:
+>**Usage:**
+**Download settings.jar file and follow:**
 [Imorting Settings](https://www.jetbrains.com/help/idea/exporting-and-importing-settings.html#import_settings_from_jar_archive)
 [Exporting Settings](https://www.jetbrains.com/help/idea/exporting-and-importing-settings.html#export_settings_to_jar_archive)
 
 
 
-# # Quick Tips (Lookup)
-1. Regex Search for  multiple words: (word1).*(word2)|\2.*\1
-2. Alt-(Left Arrow):: Navigate Back, Alt-(Right Arrow):: Navigate Forward (Cursor position)
+**A great resource to learn Intellij:**
+[Java and Android IntelliJ Wizardry Lite with Heinz Kabutz (Free at Udemy)](https://www.udemy.com/jetbrains-intellij-wizardry-lite-with-heinz-kabutz) 
 
-![jaxb Demo](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/jaxb.gif  "Jaxb Demo")
+# # Quick Tips (Lookup)
+
+| Key ShortCut  | Action |
+| ------------- | ------------- |
+| Windows+D  | Toggle distraction free mode (hides all the toolbars, just code window is displayed)  |
+| Windows+F  | Toggle Full screen mode  |
+|Alt+Left Arrow| Navigate back (useful while debugging (stepping in deeper into methods/classes)|
+|Alt+Right Arrow|Navigate forward|
+
+
+#Commonly Used Operations
+
+	1.  Regex Search for  multiple words: (word1).*(word2)|\2.*\1
+
+
+**Ctrl-Shift A (Master Key):**
+![Material Theme](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/master_action.gif  "Jaxb Demo")
+
+
+**Material Theme:**
+![Material Theme](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/material_%20theme.gif  "Jaxb Demo")
+
+
+**Debugging/Changing Values Dynamically:**
+![Debuggin/Chaning Values](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/debugging_changing_values_dynamically.gif  "Debuggin/Chaning Values")
+
+
+**Toggling distraction-free/full-screen mode:**
+![Toggling distraction-free/full-screen mode](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/toggle_distraction_full_screen.gif  "Toggling distraction-free/full-screen mode")
