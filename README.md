@@ -8,8 +8,21 @@ This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferenc
 
 
 
-**A great resource to learn Intellij:**
-[Java and Android IntelliJ Wizardry Lite with Heinz Kabutz (Free at Udemy)](https://www.udemy.com/jetbrains-intellij-wizardry-lite-with-heinz-kabutz) 
+**Some Useful Resources:**
+
+[Java and Android IntelliJ Wizardry Lite with Heinz Kabutz (Free at Udemy)](https://www.udemy.com/jetbrains-intellij-wizardry-lite-with-heinz-kabutz)
+ 
+[IntellijIDEA SubReddit](https://www.reddit.com/r/IntelliJIDEA/) 
+
+[IntellijIDEA StackOverflow](https://stackoverflow.com/search?q=intellijIDEA) 
+
+[IntelliJ Official Blog](https://blog.jetbrains.com/idea/) 
+
+[Vojtech Ruzicka's Programming Blog (on Intellij Productivity)](http://vojtechruzicka.com/?s=intellij) 
+
+[Intellij (Medium)](https://medium.com/search?q=intellijIDEA) 
+
+[Intellij (Quora)](https://www.quora.com/topic/IntelliJ-IDEA) 
 
 # # Quick Tips (Lookup)
 
