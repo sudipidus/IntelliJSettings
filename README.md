@@ -13,6 +13,9 @@ Download settings.jar file and follow:
 [Exporting Settings](https://www.jetbrains.com/help/idea/exporting-and-importing-settings.html#export_settings_to_jar_archive)
 
 
-# Quick Tips (Lookup)
+
+# # Quick Tips (Lookup)
 1. Regex Search for  multiple words: (word1).*(word2)|\2.*\1
 2. Alt-(Left Arrow):: Navigate Back, Alt-(Right Arrow):: Navigate Forward (Cursor position)
+
+![jaxb Demo](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/jaxb.gif  "Jaxb Demo")
