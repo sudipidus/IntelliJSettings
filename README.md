@@ -32,6 +32,8 @@ This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferenc
 | Windows+F  | Toggle Full screen mode  |
 |Alt+Left Arrow| Navigate back (useful while debugging (stepping in deeper into methods/classes)|
 |Alt+Right Arrow|Navigate forward|
+|F2|Jump to (next) Error|
+|Alt-Enter| '\r' carriage return (when cursor is not necessarily at the line-end)|
 
 
 #Commonly Used Operations
