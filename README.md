@@ -55,3 +55,7 @@ This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferenc
 
 **Toggling distraction-free/full-screen mode:**
 ![Toggling distraction-free/full-screen mode](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/toggle_distraction_full_screen.gif  "Toggling distraction-free/full-screen mode")
+
+**Git Blame**
+`git blame` is a command which shows the contributor to a particular file line by line. Using it in terminal is fairly easy: `git blame $filename`. In Intellij we can set root for the VCS (Version control system). Now `git blame` translates to  `Annotations` under VCS->Git and it displays line by line contributor in a nice formatted way. This can be very useful when working in a large project or dealing with merge conflicts.
+![VCS Annotation](https://github.com/sudipbhandari126/IntelliJSettings/blob/master/resources/git_blame_VCS_annotations.gif  "Git Blame Annotation Intellij")
