@@ -24,6 +24,8 @@ This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferenc
 
 [Intellij (Quora)](https://www.quora.com/topic/IntelliJ-IDEA) 
 
+[JetBrainsTV (Youtube)](https://www.youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow) 
+
 # # Quick Tips (Lookup)
 
 | Key ShortCut  | Action |
