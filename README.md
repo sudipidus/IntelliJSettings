@@ -26,6 +26,8 @@ This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferenc
 
 [JetBrainsTV (Youtube)](https://www.youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow) 
 
+[Intellij Feature Trainer plugin](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer)
+
 # # Quick Tips (Lookup)
 
 | Key ShortCut  | Action |
