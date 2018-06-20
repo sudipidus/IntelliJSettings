@@ -28,6 +28,12 @@ This repo contains Exported Jar of my Intellij  IDEA settings. (Editor preferenc
 
 [Intellij Feature Trainer plugin](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer)
 
+**Scripted Extensions**
+
+We can use scripted extension for achieving various mundane repeatitive tasks. Lets take example of creating pojo from each db table. Included in this repo is a file `generate_pojos.groovy`. Place it inside `Scratches and Consoles->Extensions->Database Tools and SQL->Schema`. Right click on table name in DB view, choose script, choose directory location and save. Modify the groovy script to change package name.
+
+We can have as many groovy scripts as we would like to have. Personally I have found this approach easier to do scripting tasks like file creation (mostly model pojo, repository, etc)
+
 # # Quick Tips (Lookup)
 
 | Key ShortCut  | Action |
